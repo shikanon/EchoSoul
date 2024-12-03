@@ -1,0 +1,9 @@
+basePath: /api
+host: localhost:8080
+info:
+  contact: {}
+  description: EchoSoul 播客项目的 API 文档
+  title: EchoSoul API文档
+  version: "1.0"
+paths: {}
+swagger: "2.0"
